@@ -1,7 +1,8 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Ho! I'm Luís Pio</h1>
+<h1>Hey! Ho! I'm Luís Pio <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
 
 <h3>A Product Designer who code</h3>
+
 
 
 * 🌍  I'm from Brazil, based in Europe
