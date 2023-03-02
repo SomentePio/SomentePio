@@ -1,7 +1,7 @@
 <h1>Hey! Ho! I'm Luís Pio <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> </h1>
 
 
-<h3>A Product Designer who code</h3>
+<h3>A Product Designer who codes</h3>
 
 
 
