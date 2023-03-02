@@ -1,13 +1,8 @@
-Hi 👋 My name Ster Ferreira
+Hey! Ho! 👋 I'M Luís Pio
 -----------------------------
-💻ㅤFront-end Developer.
 
+A Prodcut Designer who code
 
-
-I'm a young developer. I love to code and figure it out how to solve deep problems using high-edge tech. My main focus are front end development, making applications that impact the life of thousands of users.
-
-
-I am also a RocketSeat studend.
 
 * 🌍  I'm based in Minas Gerais, Brazil
 * ✉️  You can contact me at [iagoiannapple@gmail.com](mailto:iagoiannaple@gmail.com)
