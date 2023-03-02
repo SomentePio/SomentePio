@@ -1,9 +1,9 @@
 
 <br>
-Hey! Ho! 👋 I'm Pio
+Hey! Ho! 👋 I'm Pio!
 -----------------------------
 
-I'm a Product Designer whoo code
+I'm a Product Designer who code
 
 
 
@@ -16,7 +16,7 @@ I'm a Product Designer whoo code
 src="https://img.shields.io/github/followers/sterferreira?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
 
 <a href="https://github.com/somentepio" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sterferreira?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
+src="<ion-icon name="logo-figma"></ion-icon>" /></a>
 
 <a href="https://github.com/somentepio" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/sterferreira?logo=github&style=for-the-badge&color=3382ed&labelColor=171717" /></a>
@@ -28,3 +28,11 @@ src="https://img.shields.io/github/followers/sterferreira?logo=github&style=for-
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
 
 </p> -->
+    <script
+      type="module"
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"
+    ></script>
+    <script
+      nomodule
+      src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"
+    ></script>
