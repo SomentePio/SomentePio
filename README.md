@@ -9,10 +9,10 @@
 <!-- * 🌍  I'm from Brazil, based in Europe -->
 * ✉️  You can contact me at [pioluisfelipe@gmail.com](mailto:pioluisfelipe@gmail.com)
 * 🧠  I'm currently learning <b>HTML</b>. <b>CSS</b> and <b>Javascript</b>
-* 🤝  I'm open to collaborating on projects as a Mid/Senior Product Designer or a Junior Developer
-* ⚡  I love design, art and solving problem
+* 🤝  I'm open to collaborating on projects as a Senior Product Designer or a Junior Frontend Developer
+* ⚡  I love design, art, and solving problem
 
-### My insterests
+### My interests
 
 <div>
   <!-- HTML5 -->
